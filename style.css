@@ -1,0 +1,25 @@
+nav
+{
+    background-color:#004274;
+    color:white;
+  }
+      
+
+
+.logo-section{
+ background-color:burlywood;
+ 
+}
+
+.logoright{
+        margin-top:-1%;
+        margin-right: 2%;
+       float:inline-end; 
+}
+
+
+.press-link-icon{
+    color:white;
+    font-weight: bold;
+    background-color: blueviolet;
+}
